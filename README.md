@@ -13,8 +13,6 @@ Project Structure
 Results
 Bonus Features
 Key Insights
-Contributing
-License
 
 🎯 Overview
 This project analyzes student performance factors and builds predictive models to estimate exam scores. The analysis includes comprehensive data exploration, feature engineering, model training, and performance evaluation using both linear and polynomial regression techniques.
@@ -67,7 +65,7 @@ Google CoLab
 
 Setup
 bash# Clone the repository
-git clone 
+git clone https://github.com/UmxeeCS/Student-Performance-Prediction.git
 cd student-performance-prediction
 
 # Install required packages
@@ -208,7 +206,7 @@ Inspiration: Educational data mining research community
 ⭐ Star this repository if you found it helpful! ⭐
 🎯 Quick Start
 python# Clone and run in 3 steps
-git clone 
+git clone https://github.com/UmxeeCS/Student-Performance-Prediction.git
 cd student-performance-prediction
 jupyter notebook student_performance_analysis.ipynb
 Happy Learning! 🎓📊
